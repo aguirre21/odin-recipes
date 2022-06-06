@@ -1,0 +1,33 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: aliceblue;
+    background-color: cornflowerblue;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.smaller-title{
+    text-align: center;
+    font-size: 35px;
+}
+
+#description{
+    background-color: rgba(12, 59, 249, 0.823);
+}
+
+#ingredients{
+    background-color: rgb(62, 169, 62);
+}
+
+#steps{
+    background-color: brown;
+}
+
