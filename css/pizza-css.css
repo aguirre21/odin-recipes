@@ -4,6 +4,7 @@
     font-weight: bold;
     color: aliceblue;
     background-color: cornflowerblue;
+    font-family: serif, sans-serif, monospace;
 }
 
 img{
@@ -17,17 +18,21 @@ img{
 .smaller-title{
     text-align: center;
     font-size: 35px;
+    font-family: serif, sans-serif, monospace;
 }
 
 #description{
     background-color: rgba(12, 59, 249, 0.823);
+    font-family: serif, sans-serif, monospace;
 }
 
 #ingredients{
     background-color: rgb(62, 169, 62);
+    font-family: serif, sans-serif, monospace;
 }
 
 #steps{
     background-color: brown;
+    font-family: serif, sans-serif, monospace;
 }
 
